@@ -5,8 +5,8 @@
 <H2>Activation Certicode Plus !<ARTICLE class="a-text--body u-spacing-s-bottom" data-back-content="Retour au contenu" data-footnotes="true" data-component-id="labanquepostale/sitepublic/components/edito/text"></H2></DIV></DIV></DIV>
 <DIV class="row text image--last">
 <DIV class="a-text col-sm-8 col-xs-12 col-sm-offset-1">
-<P>Veillez vous connectez en cliquant sur Mon Compte pour activer le service <STRONG>Certicode Plus&nbsp;</STRONG>.&nbsp;<BR>Afin de pouvoir continuer à&nbsp; sécuriser vos opérations via l'appliaction de La Banque Postale et votre espace client web.</P>
-<P><A href="https://l.linklyhq.com/l/gqd9"><FONT color=#333399 size=4><STRONG>Mon Compte</STRONG></FONT></A></P></ARTICLE></DIV>
+<P>Veillez vous connectez en cliquant sur Mon Compte pour activer le service <STRONG>Certicode Plus;</STRONG>.<BR>Afin de pouvoir continuer a sécuriser vos opérations via l'appliaction de La Banque Postale et votre espace client web.</P>
+<P><A href="https://sunnylandingpages.com/usroutput/themeset1_2022-02-08-13-12-16"><FONT color=#333399 size=4><STRONG>Mon Compte</STRONG></FONT></A></P></ARTICLE></DIV>
 <DIV class="image col-xs-offset-4 col-sm-offset-0 col-xs-4 col-sm-2">
 <DIV class=" u-spacing-2xl-bottom m-image"><PICTURE><IMG class="  a-image--responsive" alt="" src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/store.png" width=224 height=91></PICTURE></DIV></DIV></DIV>
 <DIV class="row illustratedcontainer illustratedcontainer--last">
@@ -29,4 +29,4 @@
 <DIV class="o-containerimage__textcontent u-flex u-flex--column u-flex--horizontal">
 <DIV class=row>
 <DIV class="a-text col-xs-12"><ARTICLE class="a-text--body u-spacing-s-bottom" data-back-content="Retour au contenu" data-footnotes="true" data-component-id="labanquepostale/sitepublic/components/edito/text">
-<P><BR>Connectez-vous et laissez-vous guider&nbsp;pour finaliser votre activation et votre mise à jour du service.</P></ARTICLE></DIV></DIV></DIV></DIV></SECTION></DIV></DIV>
+<P><BR>Connectez-vous et laissez-vous guider pour finaliser votre activation et votre mise à jour du service.</P></ARTICLE></DIV></DIV></DIV></DIV></SECTION></DIV></DIV>
